@@ -102,5 +102,3 @@ This method is responsible for uploading the package structure to S3. First the 
 
 The local zip file gets created from the Lambda environment and the function is finished. 
 
-The whole Lambda code can be found in my GitHub repository.
-

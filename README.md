@@ -104,21 +104,3 @@ The local zip file gets created from the Lambda environment and the function is 
 
 The whole Lambda code can be found in my GitHub repository.
 
-##About Me
-
-Hi! My name is Jana, I live in the Southwest of Germany and when I'm not smashing weights in the gym I love to architect solutions in AWS making my and the customers lives easier. 
-
-My computer science journey started as an On-Premise System Administrator over the time developing to an AWS Architect. As I know both the "old" and "new" world, I know common pain points in architectures and being able to provide solutions to solve them and making them not even more efficient but also cheaper! 
-
-I enjoy to learn and as the AWS portfolio is evolving all the time, I also try to stay up to date by getting certified and checking out newly launched products and services.
-
-If you want to lift your environment either to the cloud or want to leverage your already migrated environment to use more of the cloud services, hit me up or check out Public Cloud Group GmbH!
-
-If you want to support me, you can buy me a [coffee](https://coff.ee/janahockenberger)!
-
-##About PCG
-[Public Cloud Group](https://pcg.io/) supports companies in their digital transformation through the use of public cloud solutions.
-
-With a product portfolio designed to accompany organisations of all sizes in their cloud journey and competence that is a synonym for highly qualified staff that clients and partners like to work with, PCG is positioned as a reliable and trustworthy partner for the hyperscalers, relevant and with repeatedly validated competence and credibility.
-
-We have the highest partnership status with the three relevant hyperscalers: Amazon Web Services (AWS), Google, and Microsoft. As experienced providers, we advise our customers independently with cloud implementation, application development, and managed 

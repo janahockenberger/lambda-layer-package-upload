@@ -1,4 +1,4 @@
-# Why using Lambda Layers?
+# Automatically Upload Lambda Layer Packages to S3
 
 The benefits of AWS Lambda Layers should not be missed. With Lambda Layers you get the possibility to package code which can then be reused in different functions.
 
